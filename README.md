@@ -2,7 +2,7 @@
 <h1 align='center'>Hey there, I'm Anubhav Singh</h1>
 
 </p>
-<img align="right" src="https://github.com/4nu6h4v51ngh/4nu6h4v51ngh/blob/main/Assistant.gif" height="400" width="450">
+<img align="right" src="https://github.com/anubhavv1998/anubhavv1998/blob/main/Assistant.gif" height="400" width="450">
 
 [![](https://img.shields.io/badge/LinkedIn-AnubhavSingh-blue)](https://www.linkedin.com/in/anubhav-singh-1a9090141/)
 [![](https://img.shields.io/badge/Twitter-AnubhavSingh-skyblue)](https://twitter.com/Anubhav02017/)
@@ -24,37 +24,37 @@
 
 ### I write contents for newspaper<br><br>
 
-![](https://komarev.com/ghpvc/?username=your-github-4nu6h4v51ngh&label=PROFILE+VIEWS)<hr>
+![](https://komarev.com/ghpvc/?username=your-github-anubhavv1998&label=PROFILE+VIEWS)<hr>
 
 <h2 style="block">Github Stats</h2>
 <p width="100%">
-<a href="https://github.com/4nu6h4v51ngh">
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=4nu6h4v51ngh&theme=highcontrast&show_icons=true&count_private=true" />
+<a href="https://github.com/anubhavv1998">
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=anubhavv1998&theme=highcontrast&show_icons=true&count_private=true" />
 </a>
 </p>
 
 <h2 style="block">Code in Languages</h2>
 <p width="100%">
-<a href="https://github.com/4nu6h4v51ngh">
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nu6h4v51ngh&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
+<a href="https://github.com/anubhavv1998">
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavv1998&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
 </a>
 </p>
 
 <h2 style="block"> Projects</h2>
 <p width="100%">
-<a href="https://github.com/4nu6h4v51ngh/SAIRA-Desktop-Assistant">
-<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=4nu6h4v51ngh&repo=SAIRA-Desktop-Assistant&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
+<a href="https://github.com/anubhavv1998/SAIRA-Desktop-Assistant">
+<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=SAIRA-Desktop-Assistant&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
 </a>
 
-<a href="https://github.com/4nu6h4v51ngh/EmployeeLoanMgt">
-<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=4nu6h4v51ngh&repo=EmployeeLoanMgt&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
+<a href="https://github.com/anubhavv1998/EmployeeLoanMgt">
+<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=EmployeeLoanMgt&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
 </a>
 </p>
 
 <hr>
 
-⚡ From  [4nu6h4v51ngh](https://github.com/4nu6h4v51ngh)<br><br>
-![Visitor Count](https://profile-counter.glitch.me/{4nu6h4v51ngh}/count.svg)
+⚡ From  [Anubhav Singh](https://github.com/anubhavv1998)<br><br>
+![Visitor Count](https://profile-counter.glitch.me/{anubhavv1998}/count.svg)
 
 <!--
 Here are some ideas to get you started:
