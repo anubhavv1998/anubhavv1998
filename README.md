@@ -2,15 +2,16 @@
 <h1 align='center'>Hey there, I'm Anubhav Singh</h1>
 
 </p>
-<img align='right' src='' width='200"'>
+<!--<img align='right' src='' width='200"'/>
 
-[![](https://img.shields.io/badge/LinkedIn-Anubhav Singh-blue)](https://www.linkedin.com/in/anubhav-singh-1a9090141/)
+[![](https://img.shields.io/badge/LinkedIn-AnubhavSingh-blue)](https://www.linkedin.com/in/anubhav-singh-1a9090141/)
 [![](https://img.shields.io/badge/HackerRank-anubhavv1998-brightgreen)](https://www.hackerrank.com/anubhavv1998)
 [![](https://img.shields.io/badge/GeeksForGeeks-4nu6h4v51ngh-brightgreen)](https://auth.geeksforgeeks.org/user/4nu6h4v51ngh/)
 [![](https://img.shields.io/badge/Gmail-anubhavsingh02016@gmail.com-red)](mailto:anubhavsingh02016@gmail.com)
 <br>
 
 <h2 align="top">About Me</h2>
+
 ### I program in C++, Python and Java
 
 ### Develop UI's in Python
