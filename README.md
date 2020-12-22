@@ -2,8 +2,7 @@
 <h1 align='center'>Hey there, I'm Anubhav Singh</h1>
 
 </p>
-<!--<img align='right' src='' width='200"'/>
--->
+<img align="right" src="https://github.com/4nu6h4v51ngh/4nu6h4v51ngh/blob/main/Assistant.gif" height="400" width="450">
 
 [![](https://img.shields.io/badge/LinkedIn-AnubhavSingh-blue)](https://www.linkedin.com/in/anubhav-singh-1a9090141/)
 [![](https://img.shields.io/badge/HackerRank-anubhavv1998-brightgreen)](https://www.hackerrank.com/anubhavv1998/)
