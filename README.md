@@ -3,6 +3,7 @@
 
 </p>
 <!--<img align='right' src='' width='200"'/>
+-->
 
 [![](https://img.shields.io/badge/LinkedIn-AnubhavSingh-blue)](https://www.linkedin.com/in/anubhav-singh-1a9090141/)
 [![](https://img.shields.io/badge/HackerRank-anubhavv1998-brightgreen)](https://www.hackerrank.com/anubhavv1998)
