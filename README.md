@@ -42,9 +42,7 @@
 
 <h2 style="block"> Projects</h2>
 <p width="100%">
-<a href="https://github.com/anubhavv1998/SAIRA-Desktop-Assistant">
-<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=SAIRA-Desktop-Assistant&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
-</a>
+
 
 <a href="https://github.com/anubhavv1998/EmployeeLoanMgt">
 <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=EmployeeLoanMgt&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
