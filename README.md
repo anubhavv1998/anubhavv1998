@@ -5,8 +5,10 @@
 <img align="right" src="https://github.com/4nu6h4v51ngh/4nu6h4v51ngh/blob/main/Assistant.gif" height="400" width="450">
 
 [![](https://img.shields.io/badge/LinkedIn-AnubhavSingh-blue)](https://www.linkedin.com/in/anubhav-singh-1a9090141/)
+[![](https://img.shields.io/badge/Twitter-AnubhavSingh-skyblue)](https://twitter.com/Anubhav02017/)
 [![](https://img.shields.io/badge/HackerRank-anubhavv1998-brightgreen)](https://www.hackerrank.com/anubhavv1998/)
 [![](https://img.shields.io/badge/GeeksForGeeks-4nu6h4v51ngh-brightgreen)](https://auth.geeksforgeeks.org/user/4nu6h4v51ngh/)
+[![](https://img.shields.io/badge/YouTube-AnubhavSingh.com-darkred)](https://www.youtube.com/channel/UCkyPJOfBGt0z9kdzFe1RZoA)
 [![](https://img.shields.io/badge/Gmail-anubhavsingh02016@gmail.com-red)](mailto:anubhavsingh02016@gmail.com)
 <br>
 
@@ -20,7 +22,9 @@
 
 ### Mathematics is everything 
 
-### I write contents for newspaper
+### I write contents for newspaper<br><br>
+
+![](https://komarev.com/ghpvc/?username=your-github-4nu6h4v51ngh&label=PROFILE+VIEWS)<hr>
 
 <h2 style="block">Github Stats</h2>
 <p width="100%">
@@ -41,17 +45,16 @@
 <a href="https://github.com/4nu6h4v51ngh/SAIRA-Desktop-Assistant">
 <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=4nu6h4v51ngh&repo=SAIRA-Desktop-Assistant&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
 </a>
-</p>
 
-<!--
-Loan management project
-<p width="100%">
-<a href="https://github.com/4nu6h4v51ngh/name">
-<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=4nu6h4v51ngh&repo=name" />
+<a href="https://github.com/4nu6h4v51ngh/EmployeeLoanMgt">
+<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=4nu6h4v51ngh&repo=EmployeeLoanMgt&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
 </a>
 </p>
--->
 
+<hr>
+
+⚡ From  [4nu6h4v51ngh](https://github.com/4nu6h4v51ngh)<br><br>
+![Visitor Count](https://profile-counter.glitch.me/{4nu6h4v51ngh}/count.svg)
 
 <!--
 Here are some ideas to get you started:
