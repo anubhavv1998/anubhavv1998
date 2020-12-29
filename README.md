@@ -11,7 +11,7 @@
 [![](https://img.shields.io/badge/HackerRank-anubhavv1998-brightgreen)](https://www.hackerrank.com/anubhavv1998/)
 [![](https://img.shields.io/badge/KnowMe-AnubhavSingh-orange)](https://anubhavv1998.github.io/)
 [![](https://img.shields.io/badge/GeeksForGeeks-4nu6h4v51ngh-brightgreen)](https://auth.geeksforgeeks.org/user/4nu6h4v51ngh/)
-[![](https://img.shields.io/badge/YouTube-AnubhavSingh.com-darkred)](https://www.youtube.com/channel/UCkyPJOfBGt0z9kdzFe1RZoA)
+[![](https://img.shields.io/badge/YouTube-AnubhavSingh.com-darkred/target="_blank")](https://www.youtube.com/channel/UCkyPJOfBGt0z9kdzFe1RZoA)
 [![](https://img.shields.io/badge/Gmail-anubhavsingh02016@gmail.com-red)](mailto:anubhavsingh02016@gmail.com)
 
 <br>
