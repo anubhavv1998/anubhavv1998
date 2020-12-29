@@ -13,6 +13,7 @@
 [![](https://img.shields.io/badge/GeeksForGeeks-4nu6h4v51ngh-brightgreen)](https://auth.geeksforgeeks.org/user/4nu6h4v51ngh/)
 [![](https://img.shields.io/badge/YouTube-AnubhavSingh.com-darkred)](https://www.youtube.com/channel/UCkyPJOfBGt0z9kdzFe1RZoA)
 [![](https://img.shields.io/badge/Gmail-anubhavsingh02016@gmail.com-red)](mailto:anubhavsingh02016@gmail.com)
+[![](https://img.shields.io/badge/Discord-anubhavsingh-blue)](https://discord.gg/LOUツMysterio#8848)
 
 <br>
 
