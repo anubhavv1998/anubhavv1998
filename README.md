@@ -59,6 +59,10 @@
     <a href="https://github.com/anubhavv1998/EazyPeazy">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=EazyPeazy&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
     </a>
+    <br><br>
+    <a href="https://github.com/anubhavv1998/Book-Navigator-GCExtention">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=Book-Navigator-GCExtention&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
+    </a>
 </p>
 
 <hr>
