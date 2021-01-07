@@ -72,7 +72,7 @@
 <hr>
 
 ⚡ From  [Anubhav Singh](https://github.com/anubhavv1998)<br><br>
-![Visitor Count](https://profile-counter.glitch.me/{anubhavv1998}/count.svg)
+
 
 
 <!-- Aage aur projects bnane hai
