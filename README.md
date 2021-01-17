@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/LinkedIn-AnubhavSingh-blue)](https://www.linkedin.com/in/anubhav-singh-1a9090141/)
 [![](https://img.shields.io/badge/Twitter-AnubhavSingh-skyblue)](https://twitter.com/Anubhav02017/)
 [![](https://img.shields.io/badge/HackerRank-anubhavv1998-brightgreen)](https://www.hackerrank.com/anubhavv1998/)
-[![](https://img.shields.io/badge/KnowMe-AnubhavSingh-orange)](https://anubhavv1998.github.io/anubhav/)
+[![](https://img.shields.io/badge/Portfolio-AnubhavSingh-orange)](https://anubhavv1998.github.io/anubhav/)
 [![](https://img.shields.io/badge/GeeksForGeeks-AnubhavSingh-brightgreen)](https://auth.geeksforgeeks.org/user/4nu6h4v51ngh/)
 [![](https://img.shields.io/badge/YouTube-AnubhavSingh-darkred)](https://www.youtube.com/channel/UCkyPJOfBGt0z9kdzFe1RZoA)
 [![](https://img.shields.io/badge/Gmail-anubhavsingh02016@gmail.com-red)](mailto:anubhavsingh02016@gmail.com)
