@@ -21,7 +21,7 @@
 
 ### I code in C++, Python and Java
 
-### Develop UI's in Python
+### I Develop Python GUI's 
 
 ### Machine learning enthusiast
 
