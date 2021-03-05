@@ -12,8 +12,9 @@
 [![](https://img.shields.io/badge/YouTube-AnubhavSingh-darkred)](https://www.youtube.com/channel/UCkyPJOfBGt0z9kdzFe1RZoA)
 [![](https://img.shields.io/badge/Gmail-anubhavsingh02016@gmail.com-red)](mailto:anubhavsingh02016@gmail.com)
 [![](https://img.shields.io/badge/Discord-anubhavsingh-blue)](https://discord.com/channels/692993599192956928/692993599192956931)
-
+<!--
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+-->
 <br>
 <h2 align="top">About Me</h2>
 
