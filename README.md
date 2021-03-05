@@ -1,6 +1,6 @@
 <p>
   
-  <h1 align='center'>Hey there, I'm Anubhav Singh</h1>
+  <h1 align='center'> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">Hey there, I'm Anubhav Singh<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 
 </p>
 
@@ -15,15 +15,16 @@
 [![](https://img.shields.io/badge/Gmail-anubhavsingh02016@gmail.com-red)](mailto:anubhavsingh02016@gmail.com)
 [![](https://img.shields.io/badge/Discord-anubhavsingh-blue)](https://discord.com/channels/692993599192956928/692993599192956931)
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <br>
 
 <h2 align="top">About Me</h2>
 
-### I code in C++, Python and Java
+### I code in C++, Python and Java<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 ### I Develop Python GUI's 
 
-### Machine learning enthusiast
+### Machine learning enthusiast<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ### Mathematics is everything 
 
