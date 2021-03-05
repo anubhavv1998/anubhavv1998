@@ -50,7 +50,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-anubhavv1998&label=PROFILE+VIEWS)<hr>
 
-<h2 style="block">Github Stats</h2>
+<h2 style="block">Github Stats<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"></h2>
 <p width="100%">
   <a href="https://github.com/anubhavv1998">
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=anubhavv1998&theme=highcontrast&show_icons=true&count_private=true" />
