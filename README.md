@@ -8,9 +8,9 @@
 [![](https://img.shields.io/badge/Twitter-AnubhavSingh-skyblue)](https://twitter.com/Anubhav02017/)
 [![](https://img.shields.io/badge/HackerRank-anubhavv1998-brightgreen)](https://www.hackerrank.com/anubhavv1998/)
 [![](https://img.shields.io/badge/Portfolio-AnubhavSingh-orange)](https://anubhavv1998.github.io/anubhav/)
-[![](https://img.shields.io/badge/GeeksForGeeks-AnubhavSingh-brightgreen)](https://auth.geeksforgeeks.org/user/4nu6h4v51ngh/)
+[![](https://img.shields.io/badge/GeeksForGeeks-anubhavv1998-brightgreen)](https://auth.geeksforgeeks.org/user/anubhavv1998/)
 [![](https://img.shields.io/badge/YouTube-AnubhavSingh-darkred)](https://www.youtube.com/channel/UCkyPJOfBGt0z9kdzFe1RZoA)
-[![](https://img.shields.io/badge/Gmail-anubhavsingh02016@gmail.com-red)](mailto:anubhavsingh02016@gmail.com)
+[![](https://img.shields.io/badge/Gmail-anubhavv1998@gmail.com-red)](mailto:anubhavv1998@gmail.com)
 [![](https://img.shields.io/badge/Discord-anubhavsingh-blue)](https://discord.com/channels/692993599192956928/692993599192956931)
 <!--
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
