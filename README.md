@@ -4,8 +4,8 @@
 </p>
 <img align="right" src="https://github.com/anubhavv1998/anubhavv1998/blob/main/Assistant.gif" height="400" width="450">
 
-[![](https://img.shields.io/badge/LinkedIn-AnubhavSingh-blue)](https://www.linkedin.com/in/anubhavv1998/)
-[![](https://img.shields.io/badge/Twitter-AnubhavSingh-skyblue)](https://twitter.com/Anubhav02017/)
+[![](https://img.shields.io/badge/LinkedIn-anubhavv1998-blue)](https://www.linkedin.com/in/anubhavv1998/)
+[![](https://img.shields.io/badge/Twitter-anubhavv1998-skyblue)](https://twitter.com/anubhavv1998/)
 [![](https://img.shields.io/badge/HackerRank-anubhavv1998-brightgreen)](https://www.hackerrank.com/anubhavv1998/)
 [![](https://img.shields.io/badge/Portfolio-AnubhavSingh-orange)](https://anubhavv1998.github.io/anubhav/)
 [![](https://img.shields.io/badge/GeeksForGeeks-anubhavv1998-brightgreen)](https://auth.geeksforgeeks.org/user/anubhavv1998/)
